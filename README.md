@@ -1,8 +1,8 @@
-<img width=72 height=72 src="public/apple-touch-icon.png">
+<img width=72 height=72 src="https://ik.imagekit.io/os33grffu/svg.JPG?updatedAt=1724781654596">
 
 ## VectorDrawable to SVG Converter
 
-This project is based on my library called [vector-drawable-svg](https://github.com/seanghay/vector-drawable-svg) and if you want to improve it, please open a pull request it will be merged as soon as possible.
+
 
 ### Support
 
